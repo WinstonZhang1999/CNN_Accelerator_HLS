@@ -1,0 +1,11 @@
+*
+.*
+!.gitignore
+!Makefile
+!team.tcl
+!project.tcl
+!memlist.txt
+!test.sh
+!native*
+!get_area.sh
+!get_latency.sh

@@ -1,0 +1,5 @@
+plm_data32_1w1r 2048 32 1w:0r 0w:1r
+plm_block_51200x32_1w1r 25600 32 1w:0r 0w:1r
+plm_block_12x32_1w1r 12 32 1w:0r 0w:1r
+plm_block_512x32_1w1r 512 32 1w:0r 0w:1r
+plm_block_51200x32_1w2r 25600 32 1w:0r 0w:2ru
